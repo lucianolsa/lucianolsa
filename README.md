@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá! Eu sou o Lucas Souto 👋
+### Olá! Eu sou o Luciano 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-souza-andrade-136b5920/)
 
-![Lucas Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=lukninja97&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukninja97&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Luciano S Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianolsa&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolsa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
